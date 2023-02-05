@@ -13,7 +13,7 @@ let options = {
         }
     },
     image: {
-        source: "https://images.unsplash.com/photo-1535498730771-e735b998cd64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
+        source: "https://images.unsplash.com/photo-1602940659805-770d1b3b9911?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80",
         blendingMode: "multiply",
         position: ["center", "center"],
         stretchMode: ["stretch-if-bigger", "stretch-if-bigger"]
